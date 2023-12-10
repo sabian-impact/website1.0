@@ -1,0 +1,29 @@
+body { 
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgoldenrodyellow;
+  padding-top: 70px;
+  height: 3000px;
+}
+
+.dreri-foto { 
+  width: 500px;
+}
+
+.header {
+  position: fixed;
+  background-color: black;
+  color: white;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+}
+
+.footer { 
+  position: absolute;
+  background-color: blueviolet;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+}
